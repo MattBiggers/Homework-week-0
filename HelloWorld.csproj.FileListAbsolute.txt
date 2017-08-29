@@ -1,0 +1,5 @@
+/Users/MatthewBiggers/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/MatthewBiggers/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/MatthewBiggers/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/MatthewBiggers/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/MatthewBiggers/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
